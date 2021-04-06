@@ -1,0 +1,10 @@
+Exercise 1:
+
+a. There are 30 bones in the .asf file "dance.asf".
+
+b. The digram is drawn.
+
+c. There are 1086 frames in the motion file.
+
+d. There are 141 frames in the motion file.
+
